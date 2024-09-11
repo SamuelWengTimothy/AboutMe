@@ -1,4 +1,4 @@
-# AboutMe
+# About Me
 - 👋 Hi, I’m Samuel Timothy
 - 👀 I’m interested in Programming and Technical Support
 - 🌱 I’m currently learning Python and Java
